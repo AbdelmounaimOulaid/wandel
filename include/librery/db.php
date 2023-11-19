@@ -1,9 +1,9 @@
 <?php
 // Informations d'identification
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'woche5378_woch');//hoch1987_hoch
+define('DB_USERNAME', 'wochbzxu_wochellc');//hoch1987_hoch
 define('DB_PASSWORD', 'woche@1987@');//a9]lO^XTQ}P0
-define('DB_NAME', 'woche5378_wochfpok');//klassen1987_institute
+define('DB_NAME', 'wochbzxu_wochellc');//klassen1987_institute
  
 // Connexion à la base de données MySQL 
 $db = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
