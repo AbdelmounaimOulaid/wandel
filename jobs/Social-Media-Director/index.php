@@ -586,7 +586,7 @@ display: none; */
                                             </div>
 
                                         </fieldset>
-                                        <fieldset class="fab-FormSection CandidateForm__section">
+                                        <!-- <fieldset class="fab-FormSection CandidateForm__section">
                                             <div class="fab-FormRow CandidateForm__row">
                                                 <div class="fab-FormColumn CandidateField CandidateField--customQuestions[486] Question">
                                                     <label class="fab-Label fab-Label--required" for="customQuestions[486]">Tell us about yourself</label>
@@ -618,7 +618,7 @@ display: none; */
                                                 </div>
                                             </div>
 
-                                        </fieldset>
+                                        </fieldset> -->
                                         <div class="sc-gueYoa jJEAu" style="justify-content: end;    align-items: baseline;">
                                             <div id="Msg" style="width: 100%;"></div>
 
