@@ -577,7 +577,7 @@ display: none; */
                                                                     </svg></i><i class="checkmark">✓</i>
                                                                 <div class="sc-gueYoa gLqfmE">
                                                                     <div class="sc-hLseeU jigbtA">CV</div>
-                                                                    <div data-testid="requiredAsterisk" class="sc-hLseeU fCqcjj">*</div>
+                                                                    <!--<div data-testid="requiredAsterisk" class="sc-hLseeU fCqcjj">*</div>-->
                                                                 </div>
                                                             </div>
                                                         </button></div>
