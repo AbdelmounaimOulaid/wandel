@@ -114,6 +114,8 @@ text-align: center;
         <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at <strong> hiring@wocheinstitute.com </strong> to confirm your application, otherwise your application will be cancelled.
 
           <br><br>
+
+          <img src="../../assets/img/whatsapp-success.png"  width="10%"/>
         </p>
       </div>
 </div>
