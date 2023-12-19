@@ -31,9 +31,10 @@
   <title>Woche</title>
 </head>
 <style>
-  .fa-brands{
+  .fa-brands {
     line-height: inherit;
   }
+
   body {
 
     background: #f8faf5;
@@ -76,7 +77,7 @@
     font-size: 18px;
     margin: 40px 20px 0;
     font-weight: 100;
-text-align: center;
+    text-align: center;
   }
 
   .Text strong {
@@ -93,19 +94,73 @@ text-align: center;
     background-color: #fff;
   }
 
+  .card-whatsapp {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container-whatsapp {
+    width: 500px;
+    height: fit-content;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid transparent;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .img-for-wtp {
+    position: relative;
+    border: 1px solid transparent;
+    background: url('../../assets/img/logo.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .text-whatsapp {
+    text-align: left;
+  }
+
+  .text-contact {
+    font-weight: 100;
+    font-size: small;
+  }
+
+  .btn {
+    color: white;
+    background-color: #25d366;
+    margin: 0px;
+  }
+
+  .container-whatsapp .fa-square-whatsapp {
+    position: absolute;
+    border: 0px solid black;
+    color: #25d366;
+    bottom: 0;
+    right: 0;
+    scale: 200%;
+  }
+
   @media (max-width: 767.98px) {
     .card {
       width: 80%;
     }
   }
-  
 </style>
 
 <body>
   <div class="main-wrapper" style="margin: 120px 0;">
     <!-- /*** */ include header ***/ -->
     <?php include('../include/header.php'); ?>
-<div style="text-align: center;">
+    <div style="text-align: center;">
       <div class="card">
         <div style="border-radius:200px; height: 150px; width: 150px; background: #F8FAF5; margin:0 auto;">
           <i class="checkmark">✓</i>
@@ -114,16 +169,38 @@ text-align: center;
         <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at <strong> hiring@wocheinstitute.com </strong> to confirm your application, otherwise your application will be cancelled.
 
           <br><br><br>
+        <div class="card-whatsapp">
 
-          <button class="btn"><i class="fa-brands fa-whatsapp"></i>Contact Us</button>
-          <!-- <a href="https://wa.me/"><img src="../../assets/img/whatsapp-success.png"  width="10%"/></a> -->
+          <div class="container-whatsapp">
+            <div class="img-for-wtp">
+              <i class="fa-brands fa-square-whatsapp"></i>
+            </div>
+            <div class="text-whatsapp">
+              <p> <span class="text-contact">
+                  CONTACT ME ON WHATSAPP
+                </span>
+                <br>
+                <span>+(212) 6xx xxx xxx </span>
+              </p>
+            </div>
+            <button onclick="whatsappGo()" class="btn">Contact Us</button>
+          </div>
+        </div>
+        <!-- <button class="btn"><i class="fa-brands fa-whatsapp"></i>Contact Us</button> -->
+        <!-- <a href="https://wa.me/"><img src="../../assets/img/whatsapp-success.png"  width="10%"/></a> -->
         </p>
       </div>
-</div>
+    </div>
 
-      <?php include('../include/footer.php'); ?>
+    <?php include('../include/footer.php'); ?>
   </div>
- 
+
 </body>
 
 </html>
+
+<script>
+      function whatsappGo(){
+        location.href = 'https://wa.me/06666666'
+      }
+</script>
