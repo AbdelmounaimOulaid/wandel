@@ -34,7 +34,7 @@
                 <img src="assets/img/error-01.png" alt="" class="img-fluid">
             </div>
             <h3 class="h2 mb-3">Linkedin page is offline</h3>
-            <p class="h4 font-weight-normal">Our LinkedIn page is currently experiencing a technical issue, but we should be able to re-upload it on the 29th of this month once the issue has been resolved.</p>
+            <p class="h4 font-weight-normal">Our LinkedIn page is currently experiencing a technical issue, but we should be able to re-upload it on the 24th of this month once the issue has been resolved.</p>
             <a href="index.php" class="btn btn-primary">Back to Home</a>
         </div>
     </div>

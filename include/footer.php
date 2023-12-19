@@ -126,7 +126,7 @@
 
                                             <li><a href="https://wochellc.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/7LFDMRJ2UPE6F1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/XUF37FUYZGM2C1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -233,7 +233,7 @@
                                         <li>
 
 
-                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+41 (784) 6064 34 </a>
+                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+49 (152)148-35926 </a>
 
                                         </li>
 
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Woche Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Woche Institute An der. Spandauer Brücke 8, 10178 Berlin, Germany All Rights Reserved.
                                 </div>
 
                             </div>

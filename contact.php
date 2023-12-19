@@ -143,7 +143,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-map-marker"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p style="color: #fff;"><span>Address:</span> kreuzstrasse 24, 8008 Zürich, Switzerland </p>
+                                                <p style="color: #fff;"><span>Address:</span> An der. Spandauer Brucke 8, 10178 Berlin, Germany </p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
@@ -151,7 +151,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-phone"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Phone:</span> <a href="tel://1234567920">+41 (784) 6064 34</a></p>
+                                                <p><span>Phone:</span> <a href="tel://1234567920">+49 (152)148-35926</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
