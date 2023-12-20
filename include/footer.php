@@ -126,7 +126,7 @@
 
                                             <li><a href="https://wochellc.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/XUF37FUYZGM2C1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/PPDNDTZCJGYJC1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -233,7 +233,7 @@
                                         <li>
 
 
-                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+49 (152)148-35926 </a>
+                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+49 (155)102-92165 </a>
 
                                         </li>
 

@@ -151,7 +151,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-phone"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Phone:</span> <a href="tel://1234567920">+49 (152)148-35926</a></p>
+                                                <p><span>Phone:</span> <a href="tel://1234567920">+49 (155)102-92165</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">

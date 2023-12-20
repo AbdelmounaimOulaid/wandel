@@ -166,7 +166,7 @@
           <i class="checkmark">✓</i>
         </div>
         <p style="color: #000;font-size:30px">We received your application successfully</p>
-        <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at <strong> hiring@wocheinstitute.com </strong> to confirm your application, otherwise your application will be cancelled.
+        <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at WhatsApp to confirm your application, otherwise your application will be cancelled.
 
           <br><br><br>
         <div class="card-whatsapp">
@@ -177,10 +177,10 @@
             </div>
             <div class="text-whatsapp">
               <p> <span class="text-contact">
-                  CONTACT ME ON WHATSAPP
+                  CONTACT US ON WHATSAPP
                 </span>
                 <br>
-                <span>+(212) 6xx xxx xxx </span>
+                <span>+49 (155)102-92165 </span>
               </p>
             </div>
             <button onclick="whatsappGo()" class="btn">Contact Us</button>
@@ -201,6 +201,6 @@
 
 <script>
       function whatsappGo(){
-        location.href = 'https://wa.me/06666666'
+        location.href = 'https://wa.me/message/PPDNDTZCJGYJC1'
       }
 </script>
