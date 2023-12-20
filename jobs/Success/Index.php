@@ -150,8 +150,28 @@
   }
 
   @media (max-width: 767.98px) {
+    
     .card {
       width: 80%;
+      padding: 2px;
+    }
+    .card .text-received{
+      font-size: 20px !important;
+    }
+    .card-whatsapp{
+      padding: 30px;
+    }
+    .text-contact{
+      font-size: small;
+    }
+    .text-whatsapp{
+      text-align: center;
+    }
+    .container-whatsapp{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
     }
   }
 </style>
@@ -165,7 +185,7 @@
         <div style="border-radius:200px; height: 150px; width: 150px; background: #F8FAF5; margin:0 auto;">
           <i class="checkmark">✓</i>
         </div>
-        <p style="color: #000;font-size:30px">We received your application successfully</p>
+        <p class="text-received" style="color: #000;font-size:30px">We received your application successfully</p>
         <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at <strong> hiring@wocheinstitute.com </strong> to confirm your application, otherwise your application will be cancelled.
 
           <br><br><br>
