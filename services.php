@@ -99,7 +99,7 @@ margin: 40px 0;
                                 <p style="font-size:18px">Our Advisors are available to help you prepare for university-level work or answer questions about international employment opportunities. </p>
 
                                 <h3 class="title" style="color:#1A76AC">Academic Advising</span></h3>
-                                <p style="font-size:18px">Wandelllchelps you to improve your English skills in order to pass English language proficiency exams: TOEFL (iBT),) TOEIC, and IELTS. We can also help you to prepare for academic course work in English by familiarizing you with new academic processes; networking and individual presentation strategies. </p>
+                                <p style="font-size:18px">Wandelinstitutehelps you to improve your English skills in order to pass English language proficiency exams: TOEFL (iBT),) TOEIC, and IELTS. We can also help you to prepare for academic course work in English by familiarizing you with new academic processes; networking and individual presentation strategies. </p>
 
                                 <h3 class="title" style="color:#1A76AC">Career Advising</span></h3>
                                 <p style="font-size:18px">We can advise you regarding your international job searches or business endeavors. You can schedule a one-on-one appointment with an Advisor for individualized attention with: recommendation letters, applications, portfolios, proposals or presentations. </p>

@@ -17,9 +17,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/wandelllc.academy/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/wandelinstitute.academy/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/wandelllc-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/wandelinstitute-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.link/zhtobg"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -54,7 +54,7 @@
                     <div class="kilimanjaro_part m-top-15">
                         <h5>Contact Us</h5>
                         <ul class="kilimanjaro_links">
-                            <li><a href="mailto:contact@wandelllc.us"><i class="far fa-envelope"></i> contact@wandelllc.com</a></li>
+                            <li><a href="mailto:contact@wandelinstitute.us"><i class="far fa-envelope"></i> contact@wandelinstitute.com</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="far fa-clock"></i> Monday - Saturday</a></li>
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <p style="font-size: 14px;">Copyright© 2019-2022 Wandelllc Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
+                    <p style="font-size: 14px;">Copyright© 2019-2022 Wandelinstitute Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
                 </div>
             </div>
         </div>
@@ -124,7 +124,7 @@
 
                                             <li><a href="https://www.instagram.com/wandel.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://wandelllc.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://wandelinstitute.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.me/message/PPDNDTZCJGYJC1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@wandelllc.com"><i class="far fa-envelope"></i> contact@wandelllc.com</a>
+                                            <a href="mailto:contact@wandelinstitute.com"><i class="far fa-envelope"></i> contact@wandelinstitute.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@wandelllc.com"><i class="far fa-envelope"></i> hiring@wandelllc.com</a>
+                                            <a href="mailto:hiring@wandelinstitute.com"><i class="far fa-envelope"></i> hiring@wandelinstitute.com</a>
                                         
                                             
                                         </li>

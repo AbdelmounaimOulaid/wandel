@@ -2,9 +2,9 @@
 RewriteEngine on
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{HTTP_HOST} ^wandelllc\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.wandelllc\.com$
-RewriteRule ^(.*)$ "https\:\/\/wandelllc\.com\/$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^wandelinstitute\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.wandelinstitute\.com$
+RewriteRule ^(.*)$ "https\:\/\/wandelinstitute\.com\/$1" [R=301,L]
 
 ErrorDocument 404 /404.shtml
 

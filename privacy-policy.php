@@ -50,7 +50,7 @@
                     <div class="col-lg-12">
                         <div class="terms-content">
                             <div class="terms-text">
-                                <p>At Wandel, accessible from www.Wandelllc.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Wandel and how we use it.</p>
+                                <p>At Wandel, accessible from www.Wandelinstitute.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Wandel and how we use it.</p>
 
                                 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 

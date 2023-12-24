@@ -51,7 +51,7 @@
                         <div class="terms-content">
                         <p>Welcome to Wandel!</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of Wandel's Website, located at www.Wandelllc.com</p>
+<p>These terms and conditions outline the rules and regulations for the use of Wandel's Website, located at www.Wandelinstitute.com</p>
 
 <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use Wandel if you do not agree to take all of the terms and conditions stated on this page.</p>
 
