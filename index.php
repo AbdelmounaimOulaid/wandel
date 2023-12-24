@@ -3,7 +3,7 @@
 require('include/librery/db.php');
 
 $cookie_name = "user";
-$cookie_value = "Woche";
+$cookie_value = "Wandel";
 if (!isset($_COOKIE[$cookie_name])) {
     setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
 }
@@ -24,7 +24,7 @@ $resulte = mysqli_query($db, $query);
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Woche</title>
+    <title>Wandel</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
 
@@ -113,7 +113,7 @@ $resulte = mysqli_query($db, $query);
                             <div class="home-slide-text ">
                                 <h5>Ready to learn ?</h5>
                                 <h1 style="color: #000;">Learn Anytime, Anywhere. Accelerate Your Future.</h1>
-                                <p>Woche prepares students for their academic and professional futures. We offer year-round quality English language courses and a variety of supportive services for students, explorers, and business professionals. Our instructors use their deep knowledge of languages, cultures, and customs to create engaging tech-smart classes in a modern setting.</p>
+                                <p>Wandel prepares students for their academic and professional futures. We offer year-round quality English language courses and a variety of supportive services for students, explorers, and business professionals. Our instructors use their deep knowledge of languages, cultures, and customs to create engaging tech-smart classes in a modern setting.</p>
                                 <ul class="nav header-navbar-rht">
                                     <li class="nav-item">
                                         <a class="nav-link header-sign" href="contact.php">Get Started</a>

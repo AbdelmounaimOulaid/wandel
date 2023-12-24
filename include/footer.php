@@ -8,7 +8,7 @@
                         <div class="footer-logo">
                             <img src="assets/img/Logo-white.png" alt="logo">
                         </div>
-                        <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit academy! We are a social movement!</p>
+                        <p style="font-weight:bold;font-size:20px">Wandel is much more than a private for-profit academy! We are a social movement!</p>
                     </div>
                     <div class="footer__social">
 
@@ -17,9 +17,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/wochellc.academy/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/wandelllc.academy/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/wochellc-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/wandelllc-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.link/zhtobg"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -54,7 +54,7 @@
                     <div class="kilimanjaro_part m-top-15">
                         <h5>Contact Us</h5>
                         <ul class="kilimanjaro_links">
-                            <li><a href="mailto:contact@wochellc.us"><i class="far fa-envelope"></i> contact@wochellc.com</a></li>
+                            <li><a href="mailto:contact@wandelllc.us"><i class="far fa-envelope"></i> contact@wandelllc.com</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="far fa-clock"></i> Monday - Saturday</a></li>
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <p style="font-size: 14px;">Copyright© 2019-2022 Wochellc Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
+                    <p style="font-size: 14px;">Copyright© 2019-2022 Wandelllc Academy 1617 Monroe St NE Washington, DC 20018 All Rights Reserved.</p>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
 
                                 <div class="footer__widget-info">
 
-                                    <p style="font-weight:bold;font-size:20px">Woche is much more than a private for-profit institute! We are a social movement!</p>
+                                    <p style="font-weight:bold;font-size:20px">Wandel is much more than a private for-profit institute! We are a social movement!</p>
 
                                     <div class="footer__social">
 
@@ -122,9 +122,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/woche.institute/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/wandel.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://wochellc.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://wandelllc.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.me/message/PPDNDTZCJGYJC1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@wochellc.com"><i class="far fa-envelope"></i> contact@wochellc.com</a>
+                                            <a href="mailto:contact@wandelllc.com"><i class="far fa-envelope"></i> contact@wandelllc.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@wochellc.com"><i class="far fa-envelope"></i> hiring@wochellc.com</a>
+                                            <a href="mailto:hiring@wandelllc.com"><i class="far fa-envelope"></i> hiring@wandelllc.com</a>
                                         
                                             
                                         </li>
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Woche Institute An der. Spandauer Brücke 8, 10178 Berlin, Germany All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Wandel Institute An der. Spandauer Brücke 8, 10178 Berlin, Germany All Rights Reserved.
                                 </div>
 
                             </div>

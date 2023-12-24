@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Woche - About</title>
+    <title>Wandel - About</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
@@ -53,7 +53,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-12">
-                        <h1 class="mb-0">About Woche Institute</h1>
+                        <h1 class="mb-0">About Wandel Institute</h1>
                         <div class="breadcrumb__list">
                             <span><a href="index.php">Home</a></span>
                             <span class="dvdr">></i></span>
@@ -71,14 +71,14 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="section-header aos" data-aos="fade-up">
                             <div class="section-sub-head">
-                                <span>About Woche Institute</span>
+                                <span>About Wandel Institute</span>
                                 <h2>We Are a New Perspective On Learning English.</h2>
                             </div>
                         </div>
                         <div class="section-text aos" data-aos="fade-up">
-                            <p style="text-align:justify;"> Woche, founded in 2020, is an online language institute located in Germany that offers English classes to students from around the world. Currently, we have assisted over 3000 students in improving their level and skills in English in order to achieve goals in their business or academic studies, and we hope to continue doing so with the help of our experienced and professional teachers.<br><br>
+                            <p style="text-align:justify;"> Wandel, founded in 2020, is an online language institute located in Germany that offers English classes to students from around the world. Currently, we have assisted over 3000 students in improving their level and skills in English in order to achieve goals in their business or academic studies, and we hope to continue doing so with the help of our experienced and professional teachers.<br><br>
 
-                                <b>Woche</b> prepares students for their academic and professional futures. We offer year-round quality English language courses and a variety of supportive services for students, explorers, and business professionals. Our instructors use their deep knowledge of languages, cultures, and customs to create engaging tech-smart classes in a modern setting.<br><br>
+                                <b>Wandel</b> prepares students for their academic and professional futures. We offer year-round quality English language courses and a variety of supportive services for students, explorers, and business professionals. Our instructors use their deep knowledge of languages, cultures, and customs to create engaging tech-smart classes in a modern setting.<br><br>
 
                                 Our private lessons assure that everyone can practice our conversational approach in a stimulating learning environment.<br>
                             </p>

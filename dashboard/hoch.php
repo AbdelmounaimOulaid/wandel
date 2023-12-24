@@ -10,7 +10,7 @@ if (!isset($_SESSION['int_email'])) {
 <html lang="en">
 
 <head>
-    <title>Woche</title>
+    <title>Wandel</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="../assets/img/Logo-Blue.png">
     <link rel="stylesheet" type="text/css" href="assets/css/Popup.css">

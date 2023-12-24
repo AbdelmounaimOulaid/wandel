@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     $message = $_POST['message'];
     if (!(empty($name) && empty($email) && empty($subject) && empty($message))) {
         include('include/mail.php');
-        $email_to = "contact@wochellc.com";
+        $email_to = "contact@wandelllc.com";
         header("Location: contact.php?Status=" . smtpmailer($email_to, $email, $name, $subject, $message));
     }
 }
@@ -21,7 +21,7 @@ if (isset($_POST['submit'])) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Woche - Contact</title>
+    <title>Wandel - Contact</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -159,7 +159,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-paper-plane"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@wochellc.com</a></p>
+                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@wandelllc.com</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
@@ -167,7 +167,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-globe"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Website</span> <a href="#">www.wochellc.com</a></p>
+                                                <p><span>Website</span> <a href="#">www.wandelllc.com</a></p>
                                             </div>
                                         </div>
                                     </div>

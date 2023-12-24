@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Woche - Employee</title>
+    <title>Wandel - Employee</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.css">
@@ -49,10 +49,10 @@ margin: 40px 0;
 
 
                                 <p style="font-size:18px">
-                                    <b>Woche institute</b> Program prepares students for success in their undergraduate or graduate fields of study. We help students to satisfy their English language requirements and to meet their academic requirements for admission. We offer personalized counseling and academic tutoring throughout the students’ application process. It’s our goal to help them smoothly transition to international universities around the world, including the United States, the United Kingdom, and Canada.
+                                    <b>Wandel institute</b> Program prepares students for success in their undergraduate or graduate fields of study. We help students to satisfy their English language requirements and to meet their academic requirements for admission. We offer personalized counseling and academic tutoring throughout the students’ application process. It’s our goal to help them smoothly transition to international universities around the world, including the United States, the United Kingdom, and Canada.
                                 </p>
                                 <h3 class="title" style="color:#1A76AC">Business english </span></h3>
-                                <p style="font-size:18px">Woche’s Business Program focuses on skills-based business English for professionals who want to increase their ability to function effectively in social and business settings. Our courses can help you to improve your English language skills, specifically business writing and public speaking, while learning industry specific phrasing and vocabulary. </p>
+                                <p style="font-size:18px">Wandel’s Business Program focuses on skills-based business English for professionals who want to increase their ability to function effectively in social and business settings. Our courses can help you to improve your English language skills, specifically business writing and public speaking, while learning industry specific phrasing and vocabulary. </p>
                                 We can help you to:
                                 <ul class="list-style-three pt-10">
                                     <li>
@@ -99,7 +99,7 @@ margin: 40px 0;
                                 <p style="font-size:18px">Our Advisors are available to help you prepare for university-level work or answer questions about international employment opportunities. </p>
 
                                 <h3 class="title" style="color:#1A76AC">Academic Advising</span></h3>
-                                <p style="font-size:18px">Wochellchelps you to improve your English skills in order to pass English language proficiency exams: TOEFL (iBT),) TOEIC, and IELTS. We can also help you to prepare for academic course work in English by familiarizing you with new academic processes; networking and individual presentation strategies. </p>
+                                <p style="font-size:18px">Wandelllchelps you to improve your English skills in order to pass English language proficiency exams: TOEFL (iBT),) TOEIC, and IELTS. We can also help you to prepare for academic course work in English by familiarizing you with new academic processes; networking and individual presentation strategies. </p>
 
                                 <h3 class="title" style="color:#1A76AC">Career Advising</span></h3>
                                 <p style="font-size:18px">We can advise you regarding your international job searches or business endeavors. You can schedule a one-on-one appointment with an Advisor for individualized attention with: recommendation letters, applications, portfolios, proposals or presentations. </p>
