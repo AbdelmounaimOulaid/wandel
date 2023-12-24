@@ -152,7 +152,7 @@
 
                                     <li>
 
-                                        <a href="/about">About us</a>
+                                        <a href="about.php">About us</a>
 
                                     </li>
 
