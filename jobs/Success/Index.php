@@ -150,8 +150,46 @@
   }
 
   @media (max-width: 767.98px) {
+    
     .card {
       width: 80%;
+      padding: 20px 2px;
+    }
+    .Text{
+      color: #000 !important;
+    }
+    .card .text-received{
+      font-size: 20px !important;
+    }
+    .card-whatsapp{
+      padding: 30px;
+    }
+    .text-contact{
+      font-size: small;
+    }
+    .text-whatsapp{
+      text-align: center;
+    }
+    .container-whatsapp{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .checkmark{
+      position: absolute;
+      width: auto;
+      height: auto;
+      font-size: 300%;
+      color:white;
+    }
+    .check{
+      width: 75px !important;
+      height: 75px !important;
+      background: green !important;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
   }
 </style>
@@ -162,13 +200,13 @@
     <?php include('../include/header.php'); ?>
     <div style="text-align: center;">
       <div class="card">
-        <div style="border-radius:200px; height: 150px; width: 150px; background: #F8FAF5; margin:0 auto;">
+        <div  class="check" style="border-radius:200px; height: 150px; width: 150px; background: #F8FAF5; margin:0 auto; position:relative;">
           <i class="checkmark">✓</i>
         </div>
-        <p style="color: #000;font-size:30px">We received your application successfully</p>
+        <p class="text-received" style="color: #000;font-size:30px">We received your application successfully</p>
         <p class="Text">Please make sure to provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at WhatsApp to confirm your application, otherwise your application will be cancelled.
-
-          <br><br><br>
+        </p>
+          <!-- <br><br><br> -->
         <div class="card-whatsapp">
 
           <div class="container-whatsapp">
@@ -180,7 +218,7 @@
                   CONTACT US ON WHATSAPP
                 </span>
                 <br>
-                <span>+49 (155)102-92165 </span>
+                <span>+49 (155)102-92165</span>
               </p>
             </div>
             <button onclick="whatsappGo()" class="btn">Contact Us</button>
@@ -188,7 +226,7 @@
         </div>
         <!-- <button class="btn"><i class="fa-brands fa-whatsapp"></i>Contact Us</button> -->
         <!-- <a href="https://wa.me/"><img src="../../assets/img/whatsapp-success.png"  width="10%"/></a> -->
-        </p>
+      
       </div>
     </div>
 
